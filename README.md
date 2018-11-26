@@ -5,8 +5,6 @@ This is a simple demo to calculate the count of tags or element in a HTML conten
 # Simplest and light weight tool to calculate the elements.
 
 
-<!DOCTYPE html>
-
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" manifest="calculateHTMLTags1.appcache">
 <head>
     <!--meta content-->
