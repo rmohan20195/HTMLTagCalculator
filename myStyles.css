@@ -1,0 +1,92 @@
+﻿.container {
+    background-color: #f1f1f1;
+    min-height: 700px;
+    border-radius:10px;
+}
+
+.textarea-height{
+    height:600px;
+}
+
+.m-t-15{
+    margin-top:15px;
+}
+
+.m-b-8{
+    margin-bottom:8px;
+}
+
+.m-p-5 {
+    margin: 5px;
+    padding: 5px;
+    border-radius:5px;
+}
+
+.info-tool{
+    padding:0;
+}
+.text-underline{
+    text-decoration:underline;
+}
+
+.accordion {
+    background-color: #c0c0c0;
+    color: #000;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.accordion:after {
+    content: "\2212";
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.accordion.collapsed:after {
+    content: '\002B';
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.bg-dark {
+    background-color: #343a40 !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.p-20{
+    padding:20px;
+}
+
+.full-width{
+    width:100%;
+}
+.border-top-white{
+    border-top:1px solid #fff;
+}
+
+.page-header {
+    border-bottom: 1px solid #fff;
+}
