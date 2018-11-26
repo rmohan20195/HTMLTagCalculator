@@ -13,15 +13,6 @@ This is a simple demo to calculate the count of tags or element in a HTML conten
     <!--meta content-->
 
     <title>Calculate HTML tags</title>
-
-    <!--css content-->
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="myStyles.css">
-    <!--css content-->
-    <!--js content-->
-    <script src="jquery.min.js"></script>
-    <script defer src="bootstrap.min.js"></script>
-    <!--js content-->
 </head>
 <body>
     <div class="container">
@@ -72,8 +63,5 @@ This is a simple demo to calculate the count of tags or element in a HTML conten
         </div>
     </div>
 
-    <!--js Content-->
-    <script defer src="calhtmltags.js"></script>
-    <!--js Content-->
 </body>
 </html>
