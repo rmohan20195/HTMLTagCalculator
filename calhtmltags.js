@@ -1,4 +1,4 @@
-const alltags = [
+var alltags = [
     "a",
     "abbr",
     "address",
