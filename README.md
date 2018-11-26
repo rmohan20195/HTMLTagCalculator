@@ -55,13 +55,5 @@ This is a simple demo to calculate the count of tags or element in a HTML conten
             </ul>
         </div>
 
-        <div id="result" class="col-md-12 col-sm-12">
-
-        </div>
-        <div class="col-md-12 col-sm-12 text-center m-t-15 p-20 border-top-white">
-            <h4><strong>Calculate HTML tags footer</strong></h4>
-        </div>
-    </div>
-
 </body>
 </html>
